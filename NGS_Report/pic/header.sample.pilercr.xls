@@ -1,0 +1,8 @@
+表头	CRISPR ID	Chr	Copies(#)	Repeat length(bp)	Spacer length(bp)	%id	Position	Repeat	Spacer
+解释	CRISPR ID	所在染色体	拷贝数	重复序列长度	Spacer序列长度	一致度	位置	重复序列	Spacer序列
+示例	crispr1	NZ_CP010519.1	5	29	32	-	452327-452610	GTTTTCTCCGCGCGAGCGGAGGTGAGCCG	-
+				29	32	100.0	452327	.............................	ACGACGCGGACGGCATCGGCACCCTGGAGTGG
+				29	32	100.0	452388	.............................	GCCGAACGGAAGCGTTGCTCGTGACGAGAGTA
+				29	32	100.0	452449	.............................	GTGTTCGGTCTCCTCCCGAGCAGCTTCGGCAC
+				29	32	100.0	452510	.............................	TTGAAGGTTGGCGTACGAGTGGTTGTCCCCTC
+				29	11	100.0	452571	.............................	GACTCCATGTC

@@ -1,0 +1,3 @@
+表头	Family	Genes_Count	Genes_List	Class	Class_Definition
+解释	家族	注释到该家族的基因数量	注释到该家族的基因列表	分类	class定义
+示例	CBM34	2	gene4404,gene4406	CBM	Carbohydrate-Binding Modules

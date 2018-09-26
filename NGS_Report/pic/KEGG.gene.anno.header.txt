@@ -1,0 +1,10 @@
+表头	解释	示例
+Gene_id	基因ID	gene00001
+e_value	比对E值	1.2e-73
+identity	比对相似度	243/243(100.00)
+Database_GeneID	比对到数据库中的序列ID	ecoi:ECOPMV1_04453
+KO	KO号	K11023
+gene_name	基因名	ptxA, artA
+Description	功能描述	ptxA; NAD-dependent ADP-ribosyltransferase
+Pathway	通路	ko05133
+Pathway definition	通路名称	Pertussis

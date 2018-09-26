@@ -1,0 +1,7 @@
+表头	解释	示例
+Functional categories	COG功能分类	METABOLISM
+Function class defination	COG功能class定义	Lipid transport and metabolism
+Function code	COG功能class简写	I
+gene number	注释到该class的基因数量	107
+gene id	注释到该class的基因列表	gene00035;gene00055;gene00163...
+COG id	对应的COG ID列表	COG2937;COG1028;COG2134...

@@ -1,0 +1,9 @@
+表头	解释	示例
+Gene ID	基因ID	gene0044
+Length(aa)	蛋白长度	542
+Number of predicted TMHs	预测的跨膜螺旋的数目	1
+Exp number of AAs in TMHs	存在于跨膜螺旋中的氨基酸残基数目期望值，如果这个数字大于18，它则很可能是跨膜蛋白或信号肽	22.76135999
+Exp number, first 60 AAs	前60个氨基酸残基中，存在于跨膜螺旋中的氨基酸残基数目期望值，如果这个数字较小，则会被警告预测的N端跨膜螺旋应该是信号肽	21.14909
+Total prob of N-in	N端在细胞质一侧的概率	0.88964
+POSSIBLE N-term signal sequence	此条为警告信息，当”Exp number, first 60 AAs“小于10时，提示可能是一个信号肽	YES
+Topology	1-12个氨基酸在膜内，13-35个氨基酸在膜上，36-542个氨基酸在膜外	inside:1-12;TMhelix:13-35;outside:36-542;

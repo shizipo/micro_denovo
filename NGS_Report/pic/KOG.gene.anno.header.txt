@@ -1,0 +1,12 @@
+表头	解释	示例
+Gene name	基因ID	gene01129
+Portein name in KOG	比对到的KOG蛋白ID	Hs16933530
+E value	比对E值	1.2e-228
+Identity	比对相似度	395/497(79.48)
+Score	比对得分	791
+Organism	物种名简写	hsa
+KOG id	KOG ID	KOG0157
+KOG defination	KOG定义	Cytochrome P450 CYP4/CYP19/CYP26 subfamilies
+Function code	KOG功能class简写	[QI]
+Functional categories	KOG功能分类	METABOLISM|METABOLISM
+Function class defination	KOG功能class定义	Secondary metabolites biosynthesis, transport and catabolism |Lipid transport and metabolism

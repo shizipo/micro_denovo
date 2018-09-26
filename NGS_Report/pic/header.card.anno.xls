@@ -1,0 +1,7 @@
+表头	解释	示例
+Query_seq	基因序列ID	gene0101
+Resistance_Type	抗性基因名称	msrB
+Description	抗性基因的详细描述	MsrB is an ABC-efflux pump expressed to Staphylococcus species that confers resistance to erythromycin and streptogramin B antibiotics. It is associated with plasmid DNA.
+Resistance_Profile	抗性基因的详细名字（若有全名，则显示全名）	msrB
+Tax	抗性基因物种来源	Escherichia coli str. K-12 substr. MG1655
+Accession	抗性基因对应的ID	ARO:3002818

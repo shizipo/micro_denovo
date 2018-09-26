@@ -1,0 +1,7 @@
+表头	解释	示例
+GeneID	基因ID	gene00001
+Database_ID	比对到对应数据库中的ID	gi|446914838|ref|WP_000992094.1|
+E_value	比对E值	6.1e-73
+Identity	比对相似度	133/133(100.00)
+Score	比对得分	282
+Annotation	功能描述	lysozyme [Escherichia coli]

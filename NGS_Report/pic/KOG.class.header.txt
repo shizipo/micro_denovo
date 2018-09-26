@@ -1,0 +1,7 @@
+表头	解释	示例
+Functional categories	KOG功能分类	METABOLISM
+Function class defination	KOG功能class定义	Energy production and conversion
+Function code	KOG功能class简写	C
+gene number	注释到该class的基因数量	294
+gene id	注释到该class的基因列表	gene00068;gene00069;gene00113...
+KOG id	对应的KOG ID列表	KOG0537;KOG2225;KOG1249...

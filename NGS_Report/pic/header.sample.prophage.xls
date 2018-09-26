@@ -1,0 +1,5 @@
+表头	解释	示例
+Prophage ID	Prophage ID	prophage1
+Chr	所在染色体	NODE_1
+Start(bp)	起始位置	905083
+End(bp)	结束位置	930472

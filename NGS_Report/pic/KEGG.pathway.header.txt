@@ -1,0 +1,7 @@
+表头	解释	示例
+class	KEGG class	Metabolism--Lipid metabolism
+Pathway definition	通路名称	Fatty acid biosynthesis
+Pathway	通路	ko00061
+Gene_number	注释到该通路的基因数量	14
+Gene_id	注释到该通路的基因列表	gene00850;gene00851;gene01889...
+KOs	注视到的KO号列表	K01961;K02160;K00647...

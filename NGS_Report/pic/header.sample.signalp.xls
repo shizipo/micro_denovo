@@ -1,0 +1,3 @@
+表头	Gene ID	Length(aa)	Description
+解释	基因ID	氨基酸长度	描述信息
+示例	gene0016	387	Cleavage site between pos. 21 and 22: AFA-VD D=0.889 D-cutoff=0.570 Networks=SignalP-noTM

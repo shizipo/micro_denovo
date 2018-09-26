@@ -1,0 +1,13 @@
+表头	解释	示例
+Gene_ID	基因ID	gene0005
+Identity	一致性	96/359(26.74)
+Score	得分	104
+E_value	E值	2.2e-22
+VFDB_type	VF致病因子类型	experimentally verified
+VFDB_Gene_ID	VFDB数据库序列ID	VFG001965
+Gene_ID	致病因子来源基因信息	gb|NP_282578
+VF_type_ID	VF致病因子类型ID	Cj1437c
+VF_Description	致病因子描述	aminotransferase
+VF_Name	致病因子名称	Capsule
+VFDB_VF_ID	VFDB中致病因子识别ID号	VF0323
+VF_species	致病因子来源物种信息	Campylobacter jejuni subsp. jejuni NCTC 11168

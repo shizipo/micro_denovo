@@ -1,0 +1,11 @@
+表头	解释	示例
+sample name	样品名	sample
+sequences num	序列数量	13
+total length	基因组总长	5263749 bp
+GC%	GC含量百分比	46.96 %
+bases masked	屏蔽重复序列长度	16396 bp (0.31 %)
+class	重复序列类别	SINEs
+family	重复序列家族	ALUs
+number	对应重复类型数量	2
+length(bp)	对应重复类型总长度	309
+percentage(%)	对应重复类型百分比	0.01

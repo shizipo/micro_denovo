@@ -1,0 +1,3 @@
+表头	Gene	Num	GO_Anno
+解释	基因ID	注释到的GO class数量	注释到的GO class详细描述
+示例	gene00008	1	Molecular Function: DNA binding (GO:0003677);

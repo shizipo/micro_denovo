@@ -1,0 +1,12 @@
+表头	解释	示例
+Gene name	基因ID	gene00001
+Portein name in COG	比对到的COG蛋白ID	Z1796
+E value	比对E值	1.2e-71
+Identity	比对相似度	124/133(93.23)
+Score	比对得分	268
+Organism	物种名简写	EcZ
+COG id	COG ID	COG3772
+COG defination	COG定义	Phage-related lysozyme (muraminidase)
+Function code	COG功能class简写	[R]
+Functional categories	COG功能分类	POORLY CHARACTERIZED
+Function class defination	COG功能class定义	General function prediction only

@@ -1,0 +1,3 @@
+表头	Gene_ID	Abbreviation	eggNOG_ID	eggNOG_Description
+解释	基因ID	eggNOG class缩写	注释到的eggNOG ID	功能描述
+示例	gene02944	P	COG0614	Periplasmic binding protein

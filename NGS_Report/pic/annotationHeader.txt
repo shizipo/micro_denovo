@@ -1,0 +1,2 @@
+表头	Gene id	NR id	NR annotation	Swissprot id	Swissprot annotation	KEGG id	KO	KEGG gene name	KEGG description	Pathway	Pathway definition	COG id	COG defination	COG code	COG categories	COG class	KOG id	KOG defination	KOG code	KOG categories	KOG class	eggNOG abbreviation	eggNOG id	eggNOG description	GO annotation	Pfam IDs	Pfam Description
+解释	基因ID	NR ID	NR功能描述	Swissprot ID	Swissprot功能描述	KEGG ID	KEGG Orthology号	基因名	KEGG功能描述	通路	通路名	COG ID	COG定义	COG class简写	COG分类	COG class定义	KOG ID	KOG定义	KOG class简写	KOG分类	KOG class定义	eggNOG class简写	eggNOG ID	eggNOG描述	GO注释	Pfam ID	Pfam描述

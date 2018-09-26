@@ -1,0 +1,3 @@
+表头	Gene	Family	Evalue	Covered_Fraction	Class	Class_Definition	CAZy_Activities
+解释	基因ID	家族	E值	覆盖率	分类	class定义	酶描述
+示例	gene0078	GH24	1.3e-17	0.65185	GH	Glycoside Hydrolases	lysozyme (EC 3.2.1.17)
